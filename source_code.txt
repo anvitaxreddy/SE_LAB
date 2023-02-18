@@ -5,7 +5,7 @@ int main() {
 
   int first_number, second_number, sum;
     
-  cout << "Enter two integers: ";
+  cout << "Enter two integers simultaneously after pressing enter: ";                     // MADE CHANGE IN PRINT STATEMENT 
   cin >> first_number >> second_number;
 
   // sum of two numbers in stored in variable sumOfTwoNumbers
@@ -16,3 +16,5 @@ int main() {
 
   return 0;
 }
+
+// MADE CHANGES IN THE FRONT OF THE CODE
